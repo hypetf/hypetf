@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**hypetf/hypetf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+📌   Born in Italy, Verona<br/>
+🏡   Living in the UK, Manchester<br/>
+📚   Studying Computer Science BSc at Manchester Metropolitan University<br/>
 
-Here are some ideas to get you started:
+###### Interests
+Mainly interested in Full Stack Software Development.🖱<br/>
+I like to play videogames in my free time and I am ALWAYS listening to some music. 🎧<br/>
+I prefer winter over summer. 🏔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Achievements & goals
+🏆   WorldSkills UK Finalist<br/>
+🎯   Aiming to join Squad UK for [WorldSkills Lyon 2024](https://www.worldskills-france.org/worldskills-competition-lyon-2024/wsc-lyon-2024-en)<br/>
+🎓   Graduate by 2024
+
+### Current Projects
+###### Code Ring
+I am currently working on [Codering](#).<br/>
+Code Ring is a server devoted for programmers from different backgrounds to communicate and chat with one another.<br/>
+It was mainly founded on Discord, to provide a space to anyone that has a programming related query and receive help with it.<br/>
+Codering will be an online resource site where even beginners will find helpful resources to get started with programming.<br/>
+[Join now](https://discord.com/invite/bZSwjPy)
+
+### Find me on
+> Instagram [@hypetf](https://www.instagram.com/hypetf/)<br/>
+> Discord @Hype#2908<br/>
+> Personal Website - soon™
