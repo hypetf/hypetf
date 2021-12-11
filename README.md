@@ -6,7 +6,7 @@
 📚   Studying Computer Science BSc at Manchester Metropolitan University<br/>
 
 ###### Interests
-Mainly interested in Full Stack Software Development.🖱<br/>
+Mainly interested in Full Stack Web & Software Development.🖱<br/>
 I like to play videogames in my free time and I am ALWAYS listening to some music. 🎧<br/>
 I prefer winter over summer. 🏔
 
