@@ -12,7 +12,6 @@ I prefer winter over summer. 🏔
 
 ###### Achievements & goals
 🏆   WorldSkills UK Finalist<br/>
-🎯   Aiming to join Squad UK for [WorldSkills Lyon 2024](https://www.worldskills-france.org/worldskills-competition-lyon-2024/wsc-lyon-2024-en)<br/>
 🎓   Graduate by 2024
 
 ### Current Projects
