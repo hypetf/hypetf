@@ -3,26 +3,22 @@
 ### About me
 📌   Born in Italy, Verona<br/>
 🏡   Living in the UK, Manchester<br/>
-📚   Studying Computer Science BSc at Manchester Metropolitan University<br/>
 
 ###### Interests
 Mainly interested in Full Stack Web & Software Development.🖱<br/>
-I like to play videogames in my free time and I am ALWAYS listening to some music. 🎧<br/>
-I prefer winter over summer. 🏔
+I like to play videogames in my free time and to listen to some music. 🎧<br/>
 
 ###### Achievements & goals
 🏆   WorldSkills UK Finalist<br/>
-🎓   Graduate by 2024
 
 ### Current Projects
-###### Code Ring
-I am currently working on [Codering](#).<br/>
-Code Ring is a server devoted for programmers from different backgrounds to communicate and chat with one another.<br/>
-It was mainly founded on Discord, to provide a space to anyone that has a programming related query and receive help with it.<br/>
-Codering will be an online resource site where even beginners will find helpful resources to get started with programming.<br/>
-[Join now](https://discord.gg/GR8jNn2B4n)
+###### Apex Proxy
+I am currently working on [Apex Proxy](https://apexproxy.tech), a mobile proxy service that provides high-speed, rotating 4G/5G proxies from multiple locations in the UK and Italy.  
+It’s designed for businesses and individuals who need reliable mobile IPs for automation, data scraping, account management, and more.  
+The system includes custom-built infrastructure using real SIM cards, USB modems, and a web dashboard for managing subscriptions, IP rotation, SMS access, and usage tracking.
+Keep an eye on [Apex Proxy](https://apexproxy.tech)
 
 ### Find me on
 > Instagram [@hypetf](https://www.instagram.com/hypetf/)<br/>
-> Discord @Hype#2908<br/>
-> Personal Website - soon™
+> Discord @hypetf<br/>
+> Personal Website - [hypetf.dev](https://hypetf.dev/)
